@@ -40,5 +40,5 @@ app.listen(PORT, (error) => {
     throw new Error(error.message)
   }
 
-  console.log(`Server stating at http://localhost:${PORT}`)
+  console.log(`Server stating  http://localhost:${PORT}`)
 })
